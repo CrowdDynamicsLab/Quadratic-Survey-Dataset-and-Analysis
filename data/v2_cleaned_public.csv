@@ -1,0 +1,176 @@
+type,timestamp,time_diff,totalCursorDistance,totalMouseClicks,user_id,version_id,option_id,old_group,new_group,old_vote,new_vote,vote_diff,card_order,new_position,old_position,filled_page_action,raw_page_action,option_position,option_position_view
+initializing system,2023-09-29 16:34:04.983000+00:00,103.501,5403.537287023075,1,S002,v2,,,,,,,,,,,,,
+options/updateOptionGroup,2023-09-29 16:36:28.018000+00:00,39.534,6830.268504296783,4,S002,v2,option_16,Undecided,Positive,,,,6.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-09-29 16:36:40.866000+00:00,12.848,690.2148448882518,1,S002,v2,option_29,Undecided,Neutral,,,,1.0,,,grouping,,2.0,5.0
+options/updateOptionGroup,2023-09-29 16:36:44.061000+00:00,3.195,898.5496256040939,1,S002,v2,option_23,Undecided,Positive,,,,5.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-09-29 16:37:12.085000+00:00,28.024,2085.2558187765203,3,S002,v2,option_20,Undecided,Positive,,,,2.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-09-29 16:37:29.894000+00:00,17.809,1508.1878205547007,1,S002,v2,option_11,Undecided,Positive,,,,3.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-09-29 16:37:35.362000+00:00,5.468,2.0,1,S002,v2,option_28,Undecided,Positive,,,,4.0,,,grouping,,1.0,6.0
+begin voting,2023-09-29 16:37:43.820000+00:00,8.469000000000001,2510.4967878993584,2,S002,v2,,,,,,,,,,,,,
+options/updateOptionVotes,2023-09-29 16:38:36.281000+00:00,52.45,5880.007870604414,5,S002,v2,option_23,,,0.0,4.0,4.0,5.0,,,voting,,4.0,3.0
+options/updateOptionVotes,2023-09-29 16:38:41.502000+00:00,5.221,314.2685010810927,2,S002,v2,option_20,,,0.0,3.0,3.0,2.0,,,voting,,3.0,4.0
+options/updateOptionVotes,2023-09-29 16:38:48.498000+00:00,6.995999999999999,620.4106807832834,2,S002,v2,option_11,,,0.0,2.0,2.0,3.0,,,voting,,2.0,5.0
+options/updateOptionVotes,2023-09-29 16:38:52.942000+00:00,4.444000000000001,470.3641197017996,2,S002,v2,option_16,,,0.0,3.0,3.0,6.0,,,voting,,5.0,2.0
+options/updateOptionVotes,2023-09-29 16:38:57.588000+00:00,4.646,714.9783036104727,2,S002,v2,option_28,,,0.0,1.0,1.0,4.0,,,voting,,1.0,6.0
+options/updateOptionVotes,2023-09-29 16:39:12.654000+00:00,15.066,1320.698533104647,4,S002,v2,option_29,,,0.0,1.0,1.0,1.0,,,voting,,6.0,1.0
+options/updateOptionVotes,2023-09-29 16:39:24.388000+00:00,11.734000000000002,1995.7062101829683,2,S002,v2,option_20,,,3.0,4.0,1.0,2.0,,,voting,,3.0,4.0
+options/updateOptionVotes,2023-09-29 16:39:27.966000+00:00,3.5780000000000003,329.79594169886,2,S002,v2,option_11,,,2.0,3.0,1.0,3.0,,,voting,,2.0,5.0
+options/updateOptionVotes,2023-09-29 16:39:54.583000+00:00,26.617000000000004,7343.986830243771,4,S002,v2,option_28,,,1.0,2.0,1.0,4.0,,,voting,,1.0,6.0
+options/updateOptionVotes,2023-09-29 16:40:54.575000+00:00,42.092,7855.808984448325,6,S002,v2,option_29,,,1.0,-2.0,-3.0,1.0,,,voting,,6.0,1.0
+initializing system,2023-10-02 14:05:06.003000+00:00,72.74600000000001,4894.269113983512,0,S008,v2,,,,,,,,,,,,,
+options/updateOptionGroup,2023-10-02 14:06:29.413000+00:00,10.664,3901.469617334935,1,S008,v2,option_3,Undecided,Neutral,,,,5.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-02 14:06:36.771000+00:00,7.358,1779.8741373240107,1,S008,v2,option_7,Undecided,Positive,,,,1.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-02 14:06:42.046000+00:00,5.275,2009.082094039905,1,S008,v2,option_24,Undecided,Positive,,,,6.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-02 14:06:45.873000+00:00,3.827,1071.3757721621423,1,S008,v2,option_4,Undecided,Positive,,,,4.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-02 14:06:50.238000+00:00,4.365,196.43983649145483,1,S008,v2,option_6,Undecided,Positive,,,,2.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-02 14:06:54.433000+00:00,4.195,734.8668097198059,1,S008,v2,option_21,Undecided,Positive,,,,3.0,,,grouping,,1.0,6.0
+options/updateOptionPosition,2023-10-02 14:07:11.949000+00:00,22.163,7082.148570062544,3,S008,v2,option_3,Positive,Neutral,,,,5.0,,,grouping,,1.0,6.0
+begin voting,2023-10-02 14:07:15.405000+00:00,3.471,2333.661767264498,0,S008,v2,,,,,,,,,,,,,
+options/updateOptionVotes,2023-10-02 14:07:42.460000+00:00,27.04,3347.5297760453705,2,S008,v2,option_24,,,0.0,5.0,5.0,6.0,,,voting,,5.0,2.0
+options/updateOptionVotes,2023-10-02 14:07:46.937000+00:00,4.477,364.20162012132016,2,S008,v2,option_7,,,0.0,3.0,3.0,1.0,,,voting,,6.0,1.0
+options/updateOptionVotes,2023-10-02 14:07:57.490000+00:00,10.553,1042.8656167605366,4,S008,v2,option_6,,,0.0,2.0,2.0,2.0,,,voting,,3.0,4.0
+options/updateOptionVotes,2023-10-02 14:08:00.426000+00:00,2.936,350.1307897139088,2,S008,v2,option_21,,,0.0,2.0,2.0,3.0,,,voting,,2.0,5.0
+options/updateOptionVotes,2023-10-02 14:08:04.521000+00:00,4.095,244.46936002441365,2,S008,v2,option_4,,,0.0,2.0,2.0,4.0,,,voting,,4.0,3.0
+options/updateOptionVotes,2023-10-02 14:08:09.809000+00:00,5.288,1195.2810186154686,3,S008,v2,option_3,,,0.0,2.0,2.0,5.0,,,voting,,1.0,6.0
+options/updateOptionVotes,2023-10-02 14:08:19.551000+00:00,9.742,1380.5949478623886,4,S008,v2,option_6,,,2.0,4.0,2.0,2.0,,,voting,,3.0,4.0
+options/updateOptionVotes,2023-10-02 14:08:23.124000+00:00,3.5730000000000004,400.180302951096,2,S008,v2,option_6,,,4.0,3.0,-1.0,2.0,,,voting,,3.0,4.0
+options/updateOptionVotes,2023-10-02 14:08:48.891000+00:00,25.766999999999992,5357.673730716269,4,S008,v2,option_6,,,3.0,2.0,-1.0,2.0,,,voting,,3.0,4.0
+options/updateOptionVotes,2023-10-02 14:08:58.619000+00:00,9.728,854.278293543801,2,S008,v2,option_21,,,2.0,3.0,1.0,3.0,,,voting,,2.0,5.0
+initializing system,2023-10-02 22:00:20.820000+00:00,82.35000000000001,1707.9057484812429,0,S010,v2,,,,,,,,,,,,,
+options/updateOptionGroup,2023-10-02 22:02:12.827000+00:00,29.657,7052.070495417618,1,S010,v2,option_21,Undecided,Positive,,,,6.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-02 22:02:18.080000+00:00,5.253,125.57235803598776,1,S010,v2,option_10,Undecided,Neutral,,,,1.0,,,grouping,,2.0,5.0
+options/updateOptionGroup,2023-10-02 22:02:21.443000+00:00,3.363,77.10800881118641,1,S010,v2,option_14,Undecided,Positive,,,,4.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-02 22:02:31.590000+00:00,10.147,25.30056307974577,1,S010,v2,option_30,Undecided,Positive,,,,2.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-02 22:02:33.458000+00:00,1.868,0.0,1,S010,v2,option_19,Undecided,Positive,,,,3.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-02 22:02:40.083000+00:00,6.625,0.0,1,S010,v2,option_27,Undecided,Positive,,,,5.0,,,grouping,,1.0,6.0
+begin voting,2023-10-02 22:02:44.708000+00:00,4.638,551.7383357970712,1,S010,v2,,,,,,,,,,,,,
+options/updateOptionVotes,2023-10-02 22:03:07.518000+00:00,22.797,3479.106470315659,3,S010,v2,option_21,,,0.0,3.0,3.0,6.0,,,voting,,5.0,2.0
+options/updateOptionVotes,2023-10-02 22:03:11.460000+00:00,3.942,617.736684472131,2,S010,v2,option_14,,,0.0,3.0,3.0,4.0,,,voting,,4.0,3.0
+options/updateOptionVotes,2023-10-02 22:03:25.714000+00:00,14.254,2258.313332233398,4,S010,v2,option_10,,,0.0,1.0,1.0,1.0,,,voting,,6.0,1.0
+options/updateOptionVotes,2023-10-02 22:03:31.576000+00:00,5.861999999999999,3457.2748701892133,2,S010,v2,option_27,,,0.0,1.0,1.0,5.0,,,voting,,1.0,6.0
+options/updateOptionVotes,2023-10-02 22:03:34.401000+00:00,2.825,207.53296617969588,2,S010,v2,option_19,,,0.0,2.0,2.0,3.0,,,voting,,2.0,5.0
+options/updateOptionVotes,2023-10-02 22:03:37.765000+00:00,3.3640000000000003,166.9088619764709,2,S010,v2,option_30,,,0.0,3.0,3.0,2.0,,,voting,,3.0,4.0
+initializing system,2023-10-03 15:21:18.396000+00:00,101.699,4059.642940111038,0,S013,v2,,,,,,,,,,,,,
+options/updateOptionGroup,2023-10-03 15:23:44.861000+00:00,44.766,12206.451316953828,1,S013,v2,option_2,Undecided,Positive,,,,3.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-03 15:24:11.153000+00:00,26.292,5100.140977790678,4,S013,v2,option_7,Undecided,Positive,,,,1.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-03 15:24:19.984000+00:00,8.831,1778.573574831583,1,S013,v2,option_12,Undecided,Positive,,,,2.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-03 15:24:26.205000+00:00,6.221,1552.091198398198,1,S013,v2,option_20,Undecided,Positive,,,,5.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-03 15:24:29.321000+00:00,3.116,1777.893728090403,1,S013,v2,option_28,Undecided,Positive,,,,4.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-03 15:24:40.009000+00:00,10.688,2011.595834952917,1,S013,v2,option_9,Undecided,Positive,,,,6.0,,,grouping,,1.0,6.0
+begin voting,2023-10-03 15:24:43.260000+00:00,3.262,674.402222360444,1,S013,v2,,,,,,,,,,,,,
+options/updateOptionVotes,2023-10-03 15:25:21.523000+00:00,38.252,10213.395772321326,2,S013,v2,option_9,,,0.0,5.0,5.0,6.0,,,voting,,1.0,6.0
+options/updateOptionVotes,2023-10-03 15:25:26.011000+00:00,4.488,529.9114253624488,2,S013,v2,option_28,,,0.0,1.0,1.0,4.0,,,voting,,2.0,5.0
+options/updateOptionVotes,2023-10-03 15:25:35.079000+00:00,9.068,2115.1864882824248,2,S013,v2,option_20,,,0.0,3.0,3.0,5.0,,,voting,,3.0,4.0
+options/updateOptionVotes,2023-10-03 15:25:50.784000+00:00,15.705000000000002,1902.887488280652,3,S013,v2,option_2,,,0.0,2.0,2.0,3.0,,,voting,,6.0,1.0
+options/updateOptionVotes,2023-10-03 15:25:57.864000+00:00,7.08,463.7785886787923,2,S013,v2,option_12,,,0.0,3.0,3.0,2.0,,,voting,,4.0,3.0
+options/updateOptionVotes,2023-10-03 15:26:00.088000+00:00,2.224,188.8662381207756,2,S013,v2,option_7,,,0.0,1.0,1.0,1.0,,,voting,,5.0,2.0
+options/updateOptionVotes,2023-10-03 15:26:28.484000+00:00,28.396,6400.403087913321,4,S013,v2,option_20,,,3.0,4.0,1.0,5.0,,,voting,,3.0,4.0
+options/updateOptionVotes,2023-10-03 15:26:43.032000+00:00,14.547999999999998,1799.7957332280494,5,S013,v2,option_12,,,3.0,4.0,1.0,2.0,,,voting,,4.0,3.0
+options/updateOptionVotes,2023-10-03 15:26:49.656000+00:00,6.6240000000000006,659.0073334437338,2,S013,v2,option_28,,,1.0,0.0,-1.0,4.0,,,voting,,2.0,5.0
+options/updateOptionVotes,2023-10-03 15:26:54.572000+00:00,4.916,422.8586238889407,2,S013,v2,option_2,,,2.0,1.0,-1.0,3.0,,,voting,,6.0,1.0
+initializing system,2023-10-04 17:02:03.580000+00:00,93.731,6222.4095021573285,0,S017,v2,,,,,,,,,,,,,
+options/updateOptionGroup,2023-10-04 17:04:15.863000+00:00,38.552,3286.366891461156,1,S017,v2,option_31,Undecided,Positive,,,,1.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-04 17:04:28.789000+00:00,12.926,3369.662963630356,2,S017,v2,option_28,Undecided,Neutral,,,,2.0,,,grouping,,2.0,5.0
+begin voting,2023-10-04 17:04:32.883000+00:00,4.107,421.3572143259941,1,S017,v2,,,,,,,,,,,,,
+begin grouping,2023-10-04 17:04:49.659000+00:00,1.86,1658.3262269613947,0,S017,v2,,,,,,,,,,,,,
+options/updateOptionGroup,2023-10-04 17:05:07.613000+00:00,17.944,2919.265781874423,1,S017,v2,option_24,Undecided,Positive,,,,3.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-04 17:05:16.987000+00:00,9.374,41.40843806181947,1,S017,v2,option_5,Undecided,Positive,,,,4.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-04 17:05:26.853000+00:00,9.866,1816.3856281489143,1,S017,v2,option_4,Undecided,Positive,,,,5.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-04 17:05:33.198000+00:00,6.345,279.92761966657287,1,S017,v2,option_6,Undecided,Positive,,,,6.0,,,grouping,,1.0,6.0
+begin voting,2023-10-04 17:05:37.315000+00:00,4.141,553.4661660337327,1,S017,v2,,,,,,,,,,,,,
+options/updateOptionVotes,2023-10-04 17:06:17.489000+00:00,40.15,5256.494079004087,4,S017,v2,option_31,,,0.0,3.0,3.0,1.0,,,voting,,5.0,2.0
+options/updateOptionVotes,2023-10-04 17:06:30.281000+00:00,12.792,581.9925383682322,3,S017,v2,option_24,,,0.0,3.0,3.0,3.0,,,voting,,4.0,3.0
+options/updateOptionVotes,2023-10-04 17:06:34.409000+00:00,4.128,393.0903353166848,2,S017,v2,option_24,,,3.0,4.0,1.0,3.0,,,voting,,4.0,3.0
+options/updateOptionVotes,2023-10-04 17:06:48.281000+00:00,13.872,755.010487212332,2,S017,v2,option_5,,,0.0,2.0,2.0,4.0,,,voting,,3.0,4.0
+options/updateOptionVotes,2023-10-04 17:06:51.566000+00:00,3.285,431.79509232020007,2,S017,v2,option_4,,,0.0,1.0,1.0,5.0,,,voting,,2.0,5.0
+options/updateOptionVotes,2023-10-04 17:06:55.660000+00:00,4.094,421.3219745778644,2,S017,v2,option_6,,,0.0,3.0,3.0,6.0,,,voting,,1.0,6.0
+options/updateOptionVotes,2023-10-04 17:07:17.577000+00:00,21.917,3515.910266662041,3,S017,v2,option_31,,,3.0,4.0,1.0,1.0,,,voting,,5.0,2.0
+options/updateOptionVotes,2023-10-04 17:07:22.459000+00:00,4.882,753.7555592446574,2,S017,v2,option_24,,,4.0,5.0,1.0,3.0,,,voting,,4.0,3.0
+initializing system,2023-10-06 20:31:46.329000+00:00,76.308,2230.9815156556974,0,S022,v2,,,,,,,,,,,,,
+options/updateOptionGroup,2023-10-06 20:33:13.549000+00:00,10.912,4729.665020709186,1,S022,v2,option_29,Undecided,Neutral,,,,3.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-06 20:33:17.869000+00:00,4.32,1295.8710931214036,1,S022,v2,option_31,Undecided,Positive,,,,4.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-06 20:33:19.961000+00:00,2.092,10.0,1,S022,v2,option_27,Undecided,Positive,,,,5.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-06 20:33:24.608000+00:00,4.647,10.82842712474619,1,S022,v2,option_16,Undecided,Positive,,,,1.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-06 20:33:26.049000+00:00,1.441,10.414213562373096,1,S022,v2,option_1,Undecided,Positive,,,,2.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-06 20:33:31.898000+00:00,5.849,694.8276001728088,1,S022,v2,option_23,Undecided,Neutral,,,,6.0,,,grouping,,5.0,2.0
+begin voting,2023-10-06 20:33:34.081000+00:00,2.199,744.2302839720824,1,S022,v2,,,,,,,,,,,,,
+options/updateOptionVotes,2023-10-06 20:33:46.141000+00:00,12.044,5106.96622136299,2,S022,v2,option_31,,,0.0,3.0,3.0,4.0,,,voting,,4.0,3.0
+options/updateOptionVotes,2023-10-06 20:33:49.447000+00:00,3.306,643.7012524230189,2,S022,v2,option_29,,,0.0,1.0,1.0,3.0,,,voting,,6.0,1.0
+options/updateOptionVotes,2023-10-06 20:33:52.271000+00:00,2.824,471.213843789737,2,S022,v2,option_23,,,0.0,1.0,1.0,6.0,,,voting,,5.0,2.0
+options/updateOptionVotes,2023-10-06 20:33:56.231000+00:00,3.96,733.2187999395486,2,S022,v2,option_27,,,0.0,1.0,1.0,5.0,,,voting,,3.0,4.0
+options/updateOptionVotes,2023-10-06 20:33:59.778000+00:00,3.547,740.330379495047,2,S022,v2,option_27,,,1.0,2.0,1.0,5.0,,,voting,,3.0,4.0
+options/updateOptionVotes,2023-10-06 20:34:04.207000+00:00,4.429,619.143125085593,2,S022,v2,option_16,,,0.0,1.0,1.0,1.0,,,voting,,2.0,5.0
+options/updateOptionVotes,2023-10-06 20:34:08.518000+00:00,4.311,397.1508272919472,3,S022,v2,option_1,,,0.0,1.0,1.0,2.0,,,voting,,1.0,6.0
+options/updateOptionVotes,2023-10-06 20:34:13.973000+00:00,5.455,563.7925909899558,2,S022,v2,option_1,,,1.0,2.0,1.0,2.0,,,voting,,1.0,6.0
+initializing system,2023-10-09 15:36:51.780000+00:00,86.852,1826.96629418666,0,S027,v2,,,,,,,,,,,,,
+options/updateOptionGroup,2023-10-09 15:39:00.039000+00:00,41.407,10056.610334655794,2,S027,v2,option_4,Undecided,Positive,,,,3.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-09 15:39:05.452000+00:00,5.413,2058.2060875957395,2,S027,v2,option_3,Undecided,Positive,,,,4.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-09 15:39:14.664000+00:00,9.212,56.52145126328583,1,S027,v2,option_26,Undecided,Neutral,,,,5.0,,,grouping,,3.0,4.0
+options/updateOptionGroup,2023-10-09 15:39:22.462000+00:00,7.798,2215.6968020404665,1,S027,v2,option_17,Undecided,Positive,,,,1.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-09 15:39:28.558000+00:00,6.096,215.58066121021653,1,S027,v2,option_29,Undecided,Negative,,,,2.0,,,grouping,,5.0,2.0
+options/updateOptionGroup,2023-10-09 15:39:37.142000+00:00,8.584,146.8297320761091,1,S027,v2,option_16,Undecided,Positive,,,,6.0,,,grouping,,1.0,6.0
+options/updateOptionPosition,2023-10-09 15:39:46.914000+00:00,10.591,2808.1806760740906,3,S027,v2,option_3,Neutral,Positive,,,,4.0,5.0,2.0,grouping,,5.0,2.0
+begin voting,2023-10-09 15:39:57.536000+00:00,10.636,1026.5138163303498,2,S027,v2,,,,,,,,,,,,,
+options/updateOptionVotes,2023-10-09 15:40:26.440000+00:00,28.89,4079.358975723239,2,S027,v2,option_29,,,0.0,-2.0,-2.0,2.0,,,voting,,6.0,1.0
+options/updateOptionVotes,2023-10-09 15:40:38.062000+00:00,11.622000000000002,1971.9224222083528,3,S027,v2,option_17,,,0.0,4.0,4.0,1.0,,,voting,,2.0,5.0
+options/updateOptionVotes,2023-10-09 15:40:42.912000+00:00,4.85,547.2970003872497,2,S027,v2,option_4,,,0.0,4.0,4.0,3.0,,,voting,,3.0,4.0
+options/updateOptionVotes,2023-10-09 15:40:51.640000+00:00,8.728,968.7746168914032,2,S027,v2,option_4,,,4.0,3.0,-1.0,3.0,,,voting,,3.0,4.0
+options/updateOptionVotes,2023-10-09 15:40:54.206000+00:00,2.566,647.5201439966403,2,S027,v2,option_16,,,0.0,2.0,2.0,6.0,,,voting,,1.0,6.0
+options/updateOptionVotes,2023-10-09 15:40:56.615000+00:00,2.409,341.8486959453661,2,S027,v2,option_16,,,2.0,3.0,1.0,6.0,,,voting,,1.0,6.0
+options/updateOptionVotes,2023-10-09 15:41:03.229000+00:00,6.614000000000001,1057.1103755822835,4,S027,v2,option_17,,,4.0,5.0,1.0,1.0,,,voting,,2.0,5.0
+options/updateOptionVotes,2023-10-09 15:41:27.497000+00:00,14.233,424.3950838539624,2,S027,v2,option_16,,,3.0,4.0,1.0,6.0,,,voting,,2.0,5.0
+options/updateOptionVotes,2023-10-09 15:41:44.798000+00:00,17.301000000000002,3755.9529486516976,6,S027,v2,option_26,,,0.0,1.0,1.0,5.0,,,voting,,4.0,3.0
+options/updateOptionVotes,2023-10-09 15:41:46.812000+00:00,2.014,508.3425060736741,2,S027,v2,option_3,,,0.0,2.0,2.0,4.0,,,voting,,5.0,2.0
+initializing system,2023-10-11 13:32:21.879000+00:00,88.046,8920.894359869255,3,S030,v2,,,,,,,,,,,,,
+options/updateOptionGroup,2023-10-11 13:34:14.989000+00:00,25.064,4857.239499576328,1,S030,v2,option_18,Undecided,Positive,,,,4.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-11 13:34:36.072000+00:00,21.083,208.576833273942,1,S030,v2,option_9,Undecided,Neutral,,,,5.0,,,grouping,,2.0,5.0
+options/updateOptionGroup,2023-10-11 13:34:40.326000+00:00,4.254,0.0,1,S030,v2,option_28,Undecided,Neutral,,,,6.0,,,grouping,,2.0,5.0
+options/updateOptionGroup,2023-10-11 13:34:42.968000+00:00,2.642,156.3935326470702,1,S030,v2,option_19,Undecided,Positive,,,,1.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-11 13:34:51.947000+00:00,8.979,28.91925977444875,1,S030,v2,option_16,Undecided,Positive,,,,2.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-11 13:34:55.242000+00:00,3.295,1.0,1,S030,v2,option_4,Undecided,Positive,,,,3.0,,,grouping,,1.0,6.0
+begin voting,2023-10-11 13:34:59.620000+00:00,4.393000000000001,1065.993875752439,1,S030,v2,,,,,,,,,,,,,
+options/updateOptionVotes,2023-10-11 13:35:27.790000+00:00,28.155,4462.211614353718,2,S030,v2,option_18,,,0.0,5.0,5.0,4.0,,,voting,,4.0,3.0
+options/updateOptionVotes,2023-10-11 13:35:36.329000+00:00,8.539,672.0238002529819,2,S030,v2,option_19,,,0.0,3.0,3.0,1.0,,,voting,,3.0,4.0
+options/updateOptionVotes,2023-10-11 13:35:40.614000+00:00,4.285,360.1529111684456,2,S030,v2,option_19,,,3.0,4.0,1.0,1.0,,,voting,,3.0,4.0
+options/updateOptionVotes,2023-10-11 13:35:43.731000+00:00,3.117,542.57441142995,2,S030,v2,option_16,,,0.0,2.0,2.0,2.0,,,voting,,2.0,5.0
+options/updateOptionVotes,2023-10-11 13:35:59.199000+00:00,15.468,607.0004730299413,2,S030,v2,option_4,,,0.0,3.0,3.0,3.0,,,voting,,1.0,6.0
+options/updateOptionVotes,2023-10-11 13:36:16.828000+00:00,17.629,1910.7158120697245,3,S030,v2,option_9,,,0.0,2.0,2.0,5.0,,,voting,,6.0,1.0
+options/updateOptionVotes,2023-10-11 13:36:20.710000+00:00,3.882000000000001,612.3287809662693,2,S030,v2,option_28,,,0.0,1.0,1.0,6.0,,,voting,,5.0,2.0
+initializing system,2023-10-11 23:40:42.190000+00:00,87.498,1750.5149811119288,0,S034,v2,,,,,,,,,,,,,
+options/updateOptionGroup,2023-10-11 23:42:23.938000+00:00,14.25,1506.391244081501,1,S034,v2,option_19,Undecided,Positive,,,,5.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-11 23:42:26.806000+00:00,2.868,35.39834563766817,1,S034,v2,option_3,Undecided,Positive,,,,1.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-11 23:42:30.654000+00:00,3.848,4.0,1,S034,v2,option_5,Undecided,Positive,,,,4.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-11 23:42:33.242000+00:00,2.588,903.370017451624,1,S034,v2,option_5,Positive,Undecided,,,,4.0,,,grouping,,3.0,4.0
+options/updateOptionGroup,2023-10-11 23:42:34.244000+00:00,1.002,6.0,1,S034,v2,option_3,Positive,Undecided,,,,1.0,,,grouping,,2.0,5.0
+options/updateOptionGroup,2023-10-11 23:42:41.679000+00:00,7.435,962.893422088258,1,S034,v2,option_3,Undecided,Negative,,,,1.0,,,grouping,,2.0,5.0
+options/updateOptionGroup,2023-10-11 23:42:46.156000+00:00,4.477,239.1064077062177,1,S034,v2,option_5,Undecided,Positive,,,,4.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-11 23:42:50.758000+00:00,4.602,0.0,1,S034,v2,option_31,Undecided,Positive,,,,2.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-11 23:42:52.232000+00:00,1.474,0.0,1,S034,v2,option_4,Undecided,Positive,,,,6.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-11 23:42:54.684000+00:00,2.452,0.0,1,S034,v2,option_14,Undecided,Positive,,,,3.0,,,grouping,,1.0,6.0
+begin voting,2023-10-11 23:42:58.114000+00:00,3.44,529.2523110229055,2,S034,v2,,,,,,,,,,,,,
+options/updateOptionVotes,2023-10-11 23:43:18.491000+00:00,20.367,1981.837664378768,5,S034,v2,option_3,,,0.0,-7.0,-7.0,1.0,,,voting,,6.0,1.0
+options/updateOptionVotes,2023-10-11 23:43:22.573000+00:00,4.082,574.2714173415987,2,S034,v2,option_3,,,-7.0,0.0,7.0,1.0,,,voting,,6.0,1.0
+options/updateOptionVotes,2023-10-11 23:43:34.028000+00:00,11.455,1017.0892850732396,2,S034,v2,option_19,,,0.0,3.0,3.0,5.0,,,voting,,5.0,2.0
+options/updateOptionVotes,2023-10-11 23:43:39.888000+00:00,5.86,402.93124905513946,2,S034,v2,option_5,,,0.0,3.0,3.0,4.0,,,voting,,4.0,3.0
+options/updateOptionVotes,2023-10-11 23:43:49.395000+00:00,9.507,500.6233666726344,2,S034,v2,option_4,,,0.0,2.0,2.0,6.0,,,voting,,2.0,5.0
+options/updateOptionVotes,2023-10-11 23:43:59.990000+00:00,10.595,495.7546806615383,2,S034,v2,option_14,,,0.0,3.0,3.0,3.0,,,voting,,1.0,6.0
+options/updateOptionVotes,2023-10-11 23:44:04.356000+00:00,4.366,248.47553550069333,2,S034,v2,option_31,,,0.0,3.0,3.0,2.0,,,voting,,3.0,4.0
+options/updateOptionVotes,2023-10-11 23:44:16.675000+00:00,12.319,850.1171497815421,2,S034,v2,option_3,,,0.0,-3.0,-3.0,1.0,,,voting,,6.0,1.0
+options/updateOptionVotes,2023-10-11 23:44:26.406000+00:00,9.731,981.7157800693022,2,S034,v2,option_19,,,3.0,4.0,1.0,5.0,,,voting,,5.0,2.0
+options/updateOptionVotes,2023-10-11 23:44:36.486000+00:00,10.079999999999998,675.5223261785734,2,S034,v2,option_14,,,3.0,4.0,1.0,3.0,,,voting,,1.0,6.0
+options/updateOptionVotes,2023-10-11 23:44:40.952000+00:00,4.465999999999999,430.0583194653196,2,S034,v2,option_14,,,4.0,3.0,-1.0,3.0,,,voting,,1.0,6.0
+options/updateOptionVotes,2023-10-11 23:44:47.941000+00:00,6.989000000000001,805.8398491640844,6,S034,v2,option_3,,,-3.0,-2.0,1.0,1.0,,,voting,,6.0,1.0
+options/updateOptionVotes,2023-10-11 23:44:52.114000+00:00,4.173,964.456914998612,2,S034,v2,option_14,,,3.0,4.0,1.0,3.0,,,voting,,1.0,6.0
+initializing system,2023-10-14 16:24:59.187000+00:00,87.302,1875.847509106149,0,S038,v2,,,,,,,,,,,,,
+options/updateOptionGroup,2023-10-14 16:26:57.076000+00:00,30.587,10872.659226286012,1,S038,v2,option_31,Undecided,Positive,,,,6.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-14 16:27:25.902000+00:00,28.826,2659.604246765168,1,S038,v2,option_5,Undecided,Positive,,,,1.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-14 16:27:34.245000+00:00,8.343,605.8443985254517,1,S038,v2,option_30,Undecided,Positive,,,,5.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-14 16:27:42.593000+00:00,8.348,1055.0533228547838,1,S038,v2,option_11,Undecided,Positive,,,,2.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-14 16:27:49.388000+00:00,6.795,983.87620491719,1,S038,v2,option_9,Undecided,Positive,,,,3.0,,,grouping,,1.0,6.0
+options/updateOptionGroup,2023-10-14 16:27:58.670000+00:00,9.282,198.6934267637546,1,S038,v2,option_15,Undecided,Neutral,,,,4.0,,,grouping,,6.0,1.0
+begin voting,2023-10-14 16:28:02.211000+00:00,3.551,2022.70446708798,1,S038,v2,,,,,,,,,,,,,
+options/updateOptionVotes,2023-10-14 16:28:54.741000+00:00,52.52,8823.73004598701,2,S038,v2,option_31,,,0.0,4.0,4.0,6.0,,,voting,,5.0,2.0
+options/updateOptionVotes,2023-10-14 16:29:14.574000+00:00,19.833,972.2906343778384,2,S038,v2,option_9,,,0.0,4.0,4.0,3.0,,,voting,,1.0,6.0
+options/updateOptionVotes,2023-10-14 16:29:24.284000+00:00,9.71,750.2592874562256,2,S038,v2,option_11,,,0.0,3.0,3.0,2.0,,,voting,,2.0,5.0
+options/updateOptionVotes,2023-10-14 16:29:30.943000+00:00,6.659,1074.4627889266294,2,S038,v2,option_30,,,0.0,3.0,3.0,5.0,,,voting,,3.0,4.0
+options/updateOptionVotes,2023-10-14 16:29:38.740000+00:00,7.797000000000001,619.2211224133187,2,S038,v2,option_5,,,0.0,2.0,2.0,1.0,,,voting,,4.0,3.0
