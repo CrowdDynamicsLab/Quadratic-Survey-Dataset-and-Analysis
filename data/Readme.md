@@ -13,7 +13,7 @@ SID,Ver,Ratings,Mental,Physical,Temporal,Performance,Effort,Frustration,Ranking,
 The first set of Mental, Physical, Temporal, Performance, Effort, Frustration are the raw scores, the second set are the sets, the third set are the weighted subscale scores
 
 ## vx_cleaned_public
-These files are extracted user behavior data with the specific options masked.
+These files are extracted user behavior data with the specific options masked. Exact options are marked away to protect study participants, thus we do not release the mapping from the id to the actual option.
 
 - type: The type of the event recorded by the system
     - initializing system: The user began the study
