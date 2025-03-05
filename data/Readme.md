@@ -14,6 +14,7 @@ The first set of Mental, Physical, Temporal, Performance, Effort, Frustration ar
 
 ## vx_cleaned_public
 These files are extracted user behavior data with the specific options masked. Exact options are marked away to protect study participants, thus we do not release the mapping from the id to the actual option.
+the x in the file name refers to the version that data harvested from. refer to version_id for the mapping.
 
 - type: The type of the event recorded by the system
     - initializing system: The user began the study
